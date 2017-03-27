@@ -1,2 +1,3 @@
 # hello-world
-My first repo ! 
+
+Hi dude i'm haarg called megason too
